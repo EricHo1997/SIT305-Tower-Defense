@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fire On Fire Game</string>
+    <string name="loadingPercent">0%</string>
+    <string name="loadingTextView">Loading game&#8230;</string>
+    <string name="loadingCompleteText">Loading Complete</string>
+    <string name="logoText">Fire On Fire Legend</string>
+    <string name="playText">Tap to play</string>
+    <string name="loadGameText">Load Game</string>
+    <string name="missionsText">Mission</string>
+    <string name="storeText">Store</string>
+</resources>
