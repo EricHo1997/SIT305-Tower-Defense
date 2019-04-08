@@ -3,13 +3,16 @@
 # Therefore, we ask permission to specify according to the process we have done.
                         -----------------------------------------//---------------------------------------
 # Week 4:
-1. Menu have been created.
+
+1. Menu have been created. [Huy]
 2. Flashscreen page updated.
 3. Icon app has been design.
 4. Some of buttons have been done.
 ...
                         -----------------------------------------//---------------------------------------
 # Week 5:
+
+## fdsfdsfdsafds
 1. Upload Audio (Musics, Sound Effects, etc.).
 2. Wavepoint of enemy is completed.
 3. First look for basic stage.
