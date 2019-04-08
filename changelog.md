@@ -27,9 +27,10 @@
 
 ## Week 5, Monday, 01/April
 
+- Upload Audio (Musics, Sound Effects, etc.).[Ngoc, Huy]
+
 ## Week 5, Tuesday, 02/April
 
-- Upload Audio (Musics, Sound Effects, etc.).[Ngoc, Huy]
 - Wavepoint of enemy is completed. [Ngoc]
 
 ## Week 5, Wednesday, 03/April
