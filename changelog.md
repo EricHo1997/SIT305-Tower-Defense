@@ -2,25 +2,36 @@
 # Due to a lack of understanding that we have not updated accordance with the process of unit.
 # Therefore, we ask permission to specify according to the process we have done.
                         -----------------------------------------//---------------------------------------
+# Week 3:
+## Wenesday, 20/March:
+- Meeting for introduction our topic. [Ngoc, Huy]
+## Thursday, 21/March:
+- Github has been created. [Ngoc]
+## Sunday, 24/March:
+- Changelog.md has been created. [Ngoc]                       
 # Week 4:
 
-1. Menu have been created. [Huy]
-2. Flashscreen page updated.
-3. Icon app has been design.
-4. Some of buttons have been done.
-...
+## Monday, 25/March:
+- Menu have been created. [Huy, Ngoc]
+## Tuesday, 26/March:
+- Flashscreen page updated. [Huy]
+- Icon app has been design. [Huy]
+## Wenesday, 27/March:
+- Some of buttons have been done. [Huy, Ngoc]
                         -----------------------------------------//---------------------------------------
 # Week 5:
 
-## fdsfdsfdsafds
-1. Upload Audio (Musics, Sound Effects, etc.).
-2. Wavepoint of enemy is completed.
-3. First look for basic stage.
+## Monday-Tuesday, 1-2/April:
+- Upload Audio (Musics, Sound Effects, etc.).[Ngoc, Huy]
+- Wavepoint of enemy is completed. [Ngoc]
+
+3. First look for basic stage.[Ngoc]
+4. Loading page. [Huy]
                         -----------------------------------------//---------------------------------------
 # Week6's Plan: (This item will be deleted when this week comes!)
-1. Shooting affects by the tower.
-2. Improving for the Terrain (add more stage, map).
-3. Object images (ememies, towers).
+1. Shooting affects by the tower. [Huy]
+2. Improving for the Terrain (add more stage, map). [Ngoc]
+3. Object images (ememies, towers). [Ngoc, Huy]
 ...
                         -----------------------------------------//---------------------------------------
 
