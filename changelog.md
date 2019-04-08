@@ -1,38 +1,42 @@
 # Our project has started going into progress with week 4.
 # Due to a lack of understanding that we have not updated accordance with the process of unit.
 # Therefore, we ask permission to specify according to the process we have done.
-                        -----------------------------------------//---------------------------------------
+                     -----------------------------------------//---------------------------------------
 # Week 3:
-## Wenesday, 20/March:
-- Meeting for introduction our topic. [Ngoc, Huy]
-## Thursday, 21/March:
-- Github has been created. [Ngoc]
-## Sunday, 24/March:
-- Changelog.md has been created. [Ngoc]                       
+  ## Wenesday, 20/March:
+    - Meeting for introduction our topic. [Ngoc, Huy]
+  ## Thursday, 21/March:
+    - Github has been created. [Ngoc]
+  ## Sunday, 24/March:
+    - Changelog.md has been created. [Ngoc]
+                     -----------------------------------------//---------------------------------------
 # Week 4:
 
-## Monday, 25/March:
-- Menu have been created. [Huy, Ngoc]
-## Tuesday, 26/March:
-- Flashscreen page updated. [Huy]
-- Icon app has been design. [Huy]
-## Wenesday, 27/March:
-- Some of buttons have been done. [Huy, Ngoc]
+  ## Monday, 25/March:
+    - Menu have been created. [Huy, Ngoc]
+  ## Tuesday, 26/March:
+    - Flashscreen page updated. [Huy]
+    - Icon app has been design. [Huy]
+  ## Wednesday, 27/March:
+    - Some of buttons have been done. [Huy, Ngoc]
                         -----------------------------------------//---------------------------------------
 # Week 5:
 
-## Monday-Tuesday, 1-2/April:
-- Upload Audio (Musics, Sound Effects, etc.).[Ngoc, Huy]
-- Wavepoint of enemy is completed. [Ngoc]
-
-3. First look for basic stage.[Ngoc]
-4. Loading page. [Huy]
+  ## Monday-Tuesday, 1-2/April:
+    - Upload Audio (Musics, Sound Effects, etc.).[Ngoc, Huy]
+  ## Wednesday, 3/April:
+    - Wavepoint of enemy is completed. [Ngoc]
+     - First look for basic stage.[Ngoc]
+  ## Saturday, 7/April:
+    - Loading page. [Huy]
                         -----------------------------------------//---------------------------------------
 # Week6's Plan: (This item will be deleted when this week comes!)
-1. Shooting affects by the tower. [Huy]
-2. Improving for the Terrain (add more stage, map). [Ngoc]
-3. Object images (ememies, towers). [Ngoc, Huy]
-...
+ ## Tuesday, 9/April:
+    - Shooting affects by the tower. [Huy]
+ ## Wednesday, 9/April:
+    - Improving for the Terrain (add more stage, map). [Ngoc]
+    - Object images (ememies, towers). [Ngoc, Huy]
+
                         -----------------------------------------//---------------------------------------
 
 # Week 6
