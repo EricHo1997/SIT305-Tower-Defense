@@ -38,12 +38,13 @@
 - First look for basic stage.[Ngoc]
 - Loading page. [Huy]
 
-## Week6's Plan: (This item will be deleted when this week comes!)
+## Week 6, Wednesday, 10/April
 
-1. Shooting affects by the tower. [Huy]
-2. Improving for the Terrain (add more stage, map). [Ngoc]
-3. Object images (ememies, towers). [Ngoc, Huy]
-...
+- Terrains have been improved (new stage).
+
+## Week7's Plan: (This item will be deleted when this week comes!)
+
+
 
 ## Week 6
 
