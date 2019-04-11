@@ -47,10 +47,22 @@
 - I need to get serious with you here: To catch up, you'll need to do much more. If you're not intending to pass, look into withdrawing from the unit and trying again next year. [Henry]
 
 ## Week 6, Wednesday, 10/April
-- Terrains have been improved (new stage).
+- Terrains have been improved (new stage). [Ngoc]
 
 ## Week 6, Thursday, 11/April [Henry]
+
 - I still need information on who did what in this file (and in future, you'll probably be in much larger teams, knowing what changed, and who made the change, is vital). [Henry]
+
+## Week 6, Thursday, 11/April [Ngoc]
+
+- Sorry for that, I just forgot that. [Ngoc]
+- I add in now! [Ngoc]
+
+## Week 6, Thursday, 11/April
+
+- The Tower has been added in Project. [Ngoc]
+- Enemies automatically run through the path. [Ngoc]
+- Shooting of tower's stil in process (Some problem need to be fixed). [Ngoc]
 
 ## Week7's Plan: (This item will be deleted when this week comes!)
 
