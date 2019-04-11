@@ -38,20 +38,24 @@
 - First look for basic stage.[Ngoc]
 - Loading page. [Huy]
 
-## Week 6, Wednesday, 10/April
+## Week 6, Monday, 8/April [Henry]
 
+- This file is missing WHO has done WHAT, and on WHICH DAYS. [Henry]
+- Both of you: function comments. I made a big fuss about this on the unit site last week. [Henry]
+- Classes need to start with a capital letter [Henry]
+- You both need a minimum 2 days per week to pass under normal circumstances. [Henry]
+- I need to get serious with you here: To catch up, you'll need to do much more. If you're not intending to pass, look into withdrawing from the unit and trying again next year. [Henry]
+
+## Week 6, Wednesday, 10/April
 - Terrains have been improved (new stage).
+
+## Week 6, Thursday, 11/April [Henry]
+- I still need information on who did what in this file (and in future, you'll probably be in much larger teams, knowing what changed, and who made the change, is vital). [Henry]
 
 ## Week7's Plan: (This item will be deleted when this week comes!)
 
 
 
-## Week 6
 
-## Monday, 8/April [Henry]
 
-- This file is missing WHO has done WHAT, and on WHICH DAYS. [Henry]
-- Both of you: function comments. I made a big fuss about this on the unit site last week. [Henry]
-- Classes need to start with a capital letter [Henry]
-- You both need a minimum 2 days per week to pass under normal circumstances.
-- I need to get serious with you here: To catch up, you'll need to do much more. If you're not intending to pass, look into withdrawing from the unit and trying again next year.
+
