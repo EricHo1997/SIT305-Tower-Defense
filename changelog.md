@@ -62,7 +62,7 @@
 
 - The Tower has been added in Project. [Ngoc]
 - Enemies automatically run through the path. [Ngoc]
-- Shooting of tower's stil in process (Some problem need to be fixed). [Ngoc]
+- Shooting of tower's still in process (Some problem need to be fixed). [Ngoc]
 
 ## Week7's Plan: (This item will be deleted when this week comes!)
 
