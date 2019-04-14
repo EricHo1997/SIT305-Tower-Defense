@@ -64,6 +64,12 @@
 - Enemies automatically run through the path. [Ngoc]
 - Shooting of tower's still in process (Some problem need to be fixed). [Ngoc]
 
+## Week 7, Saturday, 13/April
+
+- All of the screens and functions has been moved to Unity 3D instead of Android Studio. [Huy]
+- Design for the main menu. [Huy]
+- Complete the Setting menu with changing voulume and graphics. [Huy]
+
 ## Week7's Plan: (This item will be deleted when this week comes!)
 
 
