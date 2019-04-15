@@ -68,9 +68,14 @@
 
 - All of the screens and functions has been moved to Unity 3D instead of Android Studio. [Huy]
 - Design for the main menu. [Huy]
-- Complete the Setting menu with changing voulume and graphics. [Huy]
+- Complete the Setting menu with changing volume and graphics. [Huy]
 
 ## Week7's Plan: (This item will be deleted when this week comes!)
+
+## Week 7, Monday 15/April [Henry]
+- Good to see some progress. [Henry]
+- Keep in mind you're graded on your program code, not graphics. [Henry]
+
 
 
 
