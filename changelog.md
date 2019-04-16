@@ -76,6 +76,7 @@
 - Fix Tower Shooting. [Ngoc]
 - Add Funtions for Enemies (Heath, Armor, Speed, etc.). [Huy] 
 - Settings in playing (Pause button, Play button, Speed button. [Ngoc, Huy] 
+- Improve some effects in Main Menu (effects with button when want to move other scenes). [Ngoc, Huy]
 
 ## Week 7, Monday 15/April [Henry]
 - Good to see some progress. [Henry]
