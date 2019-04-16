@@ -72,6 +72,10 @@
 
 ## Week7's Plan: (This item will be deleted when this week comes!)
 
+- Tuesday Meeting.
+- Fix Tower Shooting.
+- Add Funtions for Enemies (Heath, Armor, Speed, etc.).
+
 ## Week 7, Monday 15/April [Henry]
 - Good to see some progress. [Henry]
 - Keep in mind you're graded on your program code, not graphics. [Henry]
