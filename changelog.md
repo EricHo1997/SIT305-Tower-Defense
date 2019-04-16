@@ -72,9 +72,10 @@
 
 ## Week7's Plan: (This item will be deleted when this week comes!)
 
-- Tuesday Meeting.
-- Fix Tower Shooting.
-- Add Funtions for Enemies (Heath, Armor, Speed, etc.).
+- Tuesday Meeting. [Ngoc, Huy]
+- Fix Tower Shooting. [Ngoc]
+- Add Funtions for Enemies (Heath, Armor, Speed, etc.). [Huy] 
+- Settings in playing (Pause button, Play button, Speed button. [Ngoc, Huy] 
 
 ## Week 7, Monday 15/April [Henry]
 - Good to see some progress. [Henry]
