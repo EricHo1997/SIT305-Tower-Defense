@@ -82,6 +82,13 @@
 - Good to see some progress. [Henry]
 - Keep in mind you're graded on your program code, not graphics. [Henry]
 
+## Week 7, Wednesday, 17/April
+
+- The Main Scene has been created and designed. [Huy, Ngoc]
+- Add some Objects for Main Scene [Huy, Ngoc]
+- Created the Textures and Meterials. [Huy, Ngoc]
+- That Package is quite huge so I will update on Github later. [Ngoc]
+
 
 
 
