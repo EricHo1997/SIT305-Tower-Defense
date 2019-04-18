@@ -89,6 +89,12 @@
 - Created the Textures and Meterials. [Huy, Ngoc]
 - That Package is quite huge so I will update on Github later. [Ngoc]
 
+## Week 7, Thursday, 18/April
+
+- We changed a little bit for our main scene cause that is too huge data (deleted the Objects that are unnecessary). [Ngoc]
+- Created the differant terrain for stage in game (  completed from level 1 to 4 and up to 10). [Ngoc]
+- Fix shooting tower still in process ( the tower can not move when shooting). [Huy]
+
 
 
 
