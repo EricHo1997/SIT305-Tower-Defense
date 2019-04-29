@@ -70,14 +70,6 @@
 - Design for the main menu. [Huy]
 - Complete the Setting menu with changing volume and graphics. [Huy]
 
-## Week7's Plan: (This item will be deleted when this week comes!)
-
-- Tuesday Meeting. [Ngoc, Huy]
-- Fix Tower Shooting. [Ngoc]
-- Add Funtions for Enemies (Heath, Armor, Speed, etc.). [Huy] 
-- Settings in playing (Pause button, Play button, Speed button. [Ngoc, Huy] 
-- Improve some effects in Main Menu (effects with button when want to move other scenes). [Ngoc, Huy]
-
 ## Week 7, Monday 15/April [Henry]
 - Good to see some progress. [Henry]
 - Keep in mind you're graded on your program code, not graphics. [Henry]
@@ -95,7 +87,12 @@
 - Created the differant terrain for stage in game (  completed from level 1 to 4 and up to 10). [Ngoc]
 - Fix shooting tower still in process ( the tower can not move when shooting). [Huy]
 
+## Week 8's Plan: (This item will be deleted when this week comes!)
 
+- Monday Meeting (12:00 - 14:00). [Ngoc, Huy]
+- Make the Animation for Object (Enemies). [Ngoc]
+- Add Funtions for Enemies (Heath, Armor, Speed, etc.). [Huy] 
+- Settings in playing (Pause button, Play button, Speed button. [Ngoc, Huy] 
 
 
 
