@@ -94,6 +94,18 @@
 - Add Funtions for Enemies (Heath, Armor, Speed, etc.). [Huy] 
 - Settings in playing (Pause button, Play button, Speed button. [Ngoc, Huy] 
 
+## Week 8 , Wednesday, 1/May
+
+- Make Enemies look foward. [Ngoc]
+- Bullet's Effect (fire, water, etc.). [Huy]
+
+## Week 8 , Thursday, 2/May
+
+- Animation have been added and worked well (up to 8 Characters). [Ngoc]
+- Health, Speed have been added. [Ngoc]
+- Add more Tower Type ( Canon, Magic) can be more. [Huy]
+- Effect of bullet had different types. [Huy]
+- Project have been merged on Github that we just Sourcetree software to do that. [Huy, Ngoc]
 
 
 
