@@ -65,3 +65,5 @@ fastlane/test_output
 fastlane/readme.md
 /.vs
 /Fire On Fire Legend/obj
+/Fire On Fire Legend/Library/metadata
+/Fire On Fire Legend/Library/StateCache
