@@ -87,13 +87,6 @@
 - Created the differant terrain for stage in game (  completed from level 1 to 4 and up to 10). [Ngoc]
 - Fix shooting tower still in process ( the tower can not move when shooting). [Huy]
 
-## Week 8's Plan: (This item will be deleted when this week comes!)
-
-- Monday Meeting (12:00 - 14:00). [Ngoc, Huy]
-- Make the Animation for Object (Enemies). [Ngoc]
-- Add Funtions for Enemies (Heath, Armor, Speed, etc.). [Huy] 
-- Settings in playing (Pause button, Play button, Speed button. [Ngoc, Huy] 
-
 ## Week 8 , Wednesday, 1/May
 
 - Make Enemies look foward. [Ngoc]
@@ -107,6 +100,14 @@
 - Effect of bullet had different types. [Huy]
 - Project have been merged on Github that we just Sourcetree software to do that. [Huy, Ngoc]
 
+## Week 9's Plan: (This item will be deleted when this week comes!)
 
-
+- Tuesday Meeting (12:00 - 14:00). [Ngoc, Huy]
+- Selling Towers during playing. [Huy] 
+- Create Health bar during playing. [Huy]
+- Game Over display. [Huy]
+- Money display. [Ngoc]
+- Pause and Play during play. [Ngoc]
+- Create Level Select. [Ngoc]
+- Create Unlock level. [Ngoc]
 
