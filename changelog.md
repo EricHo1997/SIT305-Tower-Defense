@@ -100,6 +100,12 @@
 - Effect of bullet had different types. [Huy]
 - Project have been merged on Github that we just Sourcetree software to do that. [Huy, Ngoc]
 
+## Week 9, Wednesday 8/May [Henry]
+- Good progress. Glad to see it's getting closer. Final stretch now. 
+- Make sure you go over everything in the Grading Criteria super carefully, to ensure you meet each point.
+
+
+
 ## Week 9's Plan: (This item will be deleted when this week comes!)
 
 - Tuesday Meeting (12:00 - 14:00). [Ngoc, Huy]
