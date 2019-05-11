@@ -104,16 +104,19 @@
 - Good progress. Glad to see it's getting closer. Final stretch now. 
 - Make sure you go over everything in the Grading Criteria super carefully, to ensure you meet each point.
 
+## Week 9 , Thursday, 9/May
+- Selling Tower function is done. [Huy]
+- Health Bar have been created. [Huy]
+- Level Select and Unlock are in process. [Ngoc]
 
 
-## Week 9's Plan: (This item will be deleted when this week comes!)
+## Week 9 , Saturday, 11/May
+- Money Dislay. [Huy]
+- Game Over Display. [Huy]
+- Pause and Play button. [Huy]
+- Zoom to Object. [Ngoc]
+- Select Objec. [Ngoc]
 
-- Tuesday Meeting (12:00 - 14:00). [Ngoc, Huy]
-- Selling Towers during playing. [Huy] 
-- Create Health bar during playing. [Huy]
-- Game Over display. [Huy]
-- Money display. [Ngoc]
-- Pause and Play during play. [Ngoc]
-- Create Level Select. [Ngoc]
-- Create Unlock level. [Ngoc]
+
+## Week 10's Plan: (This item will be deleted when this week comes!)
 
