@@ -10,9 +10,13 @@
 	+ LogoName.png, CC, edit by my team
 	+ LogoBrand.png, CC, edit by my team
 [Sounds]
-	+
-	+
-	+
-	+
+	+ MainMenuSound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	+ LevelSelectSound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	+ Level02Sound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	+ Level03Sound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	+ Level04Sound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	+ Level05Sound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	+ Level06Sound.wav, CC, Vasco Grossmann, https://assetstore.unity.com/packages/audio/music/orchestral/fantasy-music-lite-72931
+	
 [Video]
 	+ BrandIntro.mp4, CC, Panzoid, https://panzoid.com/tools/clipmaker?c=214297
