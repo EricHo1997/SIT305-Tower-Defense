@@ -5,7 +5,7 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
  - Ngoc (Eric) The Ho: 215377885.
  - Hector Tran :       216410423.
 
-# Description's Project:
+## Description's Project:
 - Fire on Fire Legend is a strategic and exclusive defense game in the theme of 3D illustration which requires players to build plenty of towers to against the enemies and protect the kingdom. Furthermore, this game will bring a lot of fun and interesting things for the gamer of defense legend – Fire on Fire Legend. Player will not get bored when playing this game because they have to build a strong and powerful defense enough to prevent attacks from the enemy. Additionally, the player needs to have a reasonable and smart tactic in order for the troops to attack and repel the attack from the other side. Fire on Fire Legend will definitely have new scenes along with the obstacles and also the various attacks from the AI (or another player) such as more numerous forces, more aggressive, more monsters with purpose to annex the kingdom again, that depends on the difficulty of each level that player has achieved. 
   
 
@@ -21,28 +21,53 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
  - Trello to make plan what we need to acheive for each times.
  - Youtube to learn more experience on Unity, etc.
  
-## API references
+## API References:
+- Some of our main scripts:
+### Major public Classes, Functions, Methods:
+- BuildManager.cs:
 
-### major public classes
+- CompleteLevel.cs:
+    using UnityEngine;
+    using UnityEngine.SceneManagement;
+     
+    public class CompleteLevel : MonoBehaviour
+    {
+        public string menuSceneName = "LevelSelect";
 
-### functions
+        public string nextLevel;
+        public int levelToUnlock;
 
-### methods
+        public SceneFader sceneFader;    
 
+        public void Continue()
+        {
+            PlayerPrefs.SetInt("levelReached", levelToUnlock);
+            sceneFader.FadeTo(nextLevel);
+        }
 
-## Running the tests
+        public void Menu()
+        {
+            sceneFader.FadeTo(menuSceneName);
+        } 
+    }
 
-  Explain how to run the automated tests for this system
+- LevelSelector1.cs:
 
-## Break down into end to end tests
+- SceneFader.cs:
 
-  Explain what these tests test and why
+- Shop.cs:
 
-  Give an example
-## And coding style tests
-  Explain what these tests test and why
+- Turret.cs:
 
-  Give an example
+- WaveSpanwner.cs
+
+- GameManager.cs:
+
+- RoundSurvived.cs:
+
+- Nodes.cs
+
+- And so on.
 
 ## Built With
   Unity - Main Application Build.
