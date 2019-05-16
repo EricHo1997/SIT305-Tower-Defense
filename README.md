@@ -1,4 +1,4 @@
-## SIT305-Tower Defense : "Fire On Fire"
+# SIT305-Tower Defense : "Fire On Fire"
 Project about tower defense by Ngoc (Eric) and Huy (Hector).
 
 # Team Members Details:
