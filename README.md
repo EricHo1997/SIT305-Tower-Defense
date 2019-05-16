@@ -27,11 +27,13 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
 - BuildManager.cs:
 
 - CompleteLevel.cs:
+
     using UnityEngine;
     using UnityEngine.SceneManagement;
      
     public class CompleteLevel : MonoBehaviour
     {
+    
         public string menuSceneName = "LevelSelect";
         public string nextLevel;
         public int levelToUnlock;
@@ -45,6 +47,7 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
         {
             sceneFader.FadeTo(menuSceneName);
         } 
+        
      }
 
 - LevelSelector1.cs:
