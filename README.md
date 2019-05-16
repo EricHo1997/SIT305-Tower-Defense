@@ -1,5 +1,5 @@
 # SIT305-Tower Defense : "Fire On Fire"
-Project about tower defense by Ngoc (Eric) and Huy (Hector).
+Project about tower defense by Ngoc (Eric) and Huy (Hector) : https://github.com/EricHo1997/SIT305-Tower-Defense.git
 
 ## Team Members Details:
  - Ngoc (Eric) The Ho: 215377885.
