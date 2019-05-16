@@ -119,4 +119,5 @@
 
 
 ## Week 10's Plan: (This item will be deleted when this week comes!)
-
+- record Video. [Ngoc, Huy]
+- Prepare Everything to submit. [Ngoc, Huy]
