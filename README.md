@@ -22,82 +22,7 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
  - Youtube to learn more experience on Unity, etc.
  
 ## API References:
-- Some of our main scripts:
-### Major public Classes, Functions, Methods:
-- BuildManager.cs:
-
-- CompleteLevel.cs:
-
-        public string menuSceneName = "LevelSelect";
-        public string nextLevel;
-        public int levelToUnlock;
-        public SceneFader sceneFader;    
-        public void Continue()
-        {
-            PlayerPrefs.SetInt("levelReached", levelToUnlock);
-            sceneFader.FadeTo(nextLevel);
-        }
-        public void Menu()
-        {
-            sceneFader.FadeTo(menuSceneName);
-        }
-
-- LevelSelector1.cs:
-
-    public SceneFader fader;
-    public Button[] levelButtons;
-    public int levelToUnlock = 1;
-
-    // Update is called once per frame
-    void Start()
-    {
-        int levelReached = PlayerPrefs.GetInt("levelReached", 1);
-
-        for (int i = 0; i < levelButtons.Length; i++)
-        {
-            if (i + 1 > levelReached)
-                levelButtons[i].interactable = false;
-            else if(i + 1 < levelReached)
-            {
-                if (Input.GetKey(KeyCode.Escape))
-                {
-                    levelButtons[i].interactable = true;
-                }
-            }
-        }
-    }
-
-    public void Select(string levelName)
-    {
-
-        Debug.Log("Move to " + levelName);
-        fader.FadeTo(levelName);
-    }
-
-    public void Restart()
-    {
-        int levelReached = PlayerPrefs.GetInt("levelReached", 1);
-
-        PlayerPrefs.SetInt("levelReached", levelToUnlock);
-        fader.FadeTo(SceneManager.GetActiveScene().name);
-    }
-
-- SceneFader.cs:
-
-- Shop.cs:
-
-- Turret.cs:
-
-- WaveSpanwner.cs
-
-- GameManager.cs:
-
-- RoundSurvived.cs:
-
-- Nodes.cs
-
-- And so on.
-
+ - https://github.com/EricHo1997/SIT305-Tower-Defense/tree/master/Fire%20On%20Fire%20Legend/Assets
 ## Built With
   Unity - Main Application Build.
   Visual Studio - Main Script.
@@ -105,7 +30,7 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
   Sourcetree - commit project to Github.
   
 ## Contributing
-  Please read changelog.md : https://github.com/EricHo1997/SIT305-Tower-Defense/blob/master/changelog.mdfor details on our code of conduct, and the process for submitting pull requests to us.
+  Please read changelog.md : https://github.com/EricHo1997/SIT305-Tower-Defense/blob/master/changelog.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
  - See the tags on this repository : https://github.com/EricHo1997/SIT305-Tower-Defense.git.
