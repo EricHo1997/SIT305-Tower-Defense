@@ -49,7 +49,7 @@ Project about tower defense by Ngoc (Eric) and Huy (Hector).
         {
             sceneFader.FadeTo(menuSceneName);
         } 
-    }
+     }
 
 - LevelSelector1.cs:
 
