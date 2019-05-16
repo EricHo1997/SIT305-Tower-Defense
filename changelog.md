@@ -118,6 +118,11 @@
 - Select Objec. [Ngoc]
 
 
-## Week 10's Plan: (This item will be deleted when this week comes!)
-- record Video. [Ngoc, Huy]
+## Week 10's Plan: (This item will be deleted when Due date comes!)
+- Record Video. [Ngoc, Huy]
 - Prepare Everything to submit. [Ngoc, Huy]
+- Make the Justification Marking. [Ngoc, Huy]
+- Export files from PC to Android in Unity. [Ngoc, Huy]
+- Push up our Game to Google Play Store. [Ngoc, Huy]
+
+
