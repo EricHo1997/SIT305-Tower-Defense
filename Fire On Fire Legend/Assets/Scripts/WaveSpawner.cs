@@ -4,25 +4,44 @@ using UnityEngine.UI;
 
 public class WaveSpawner : MonoBehaviour
 {
-    public Transform enemyPrefab;
+    public static int EnemiesAlive = 0;
 
-    public Transform spawnPoint;
+    public Wave[] waves;
+
+    public Transform[] spawnPoints;
     
     public float timeBetweenWaves = 5f;
     private float countdown = 2f;
 
     public Text waveCountdownText;
 
+    public GameManager gameManager;
+
     private int waveIndex = 0;
+
+    private int spawnIndex = 0;
 
     void Update()
     {
-        if (countdown <= 0f)
+        if (EnemiesAlive > 0)
         {
-            StartCoroutine(SpawnWave());
-            countdown = timeBetweenWaves;  
+            return;
         }
 
+        if (waveIndex == waves.Length)
+        {
+            gameManager.WinLevel();
+            this.enabled = false;
+        }
+
+        if (countdown <= 0f)
+        {
+            StartCoroutine(SpawnWave()); // Spawn a new wave 
+            countdown = timeBetweenWaves;  // Set the time back to each wave
+            return;
+        }
+
+        // Reduce the countdown time for each wave of enemy
         countdown -= Time.deltaTime;
 
         countdown = Mathf.Clamp(countdown, 0f, Mathf.Infinity);
@@ -31,19 +50,30 @@ public class WaveSpawner : MonoBehaviour
     }
 
     IEnumerator SpawnWave()
-    {
-        waveIndex++;
+    {        
         PlayerStats.Rounds++;
 
-        for (int i = 0; i < waveIndex; i++)
+        Wave wave = waves[waveIndex];
+
+        for (int i = 0; i < wave.count; i++)
         {
-            SpawnEnemy();
-            yield return new WaitForSeconds(0.5f);
-        }            
+            SpawnEnemy(wave.enemy);
+            yield return new WaitForSeconds(1f / wave.rate);
+        }
+
+        waveIndex++;        
     }
 
-    void SpawnEnemy()
+    void SpawnEnemy(GameObject enemy)
     {
-        Instantiate(enemyPrefab, spawnPoint.position, spawnPoint.rotation);
+        Transform sp = spawnPoints[spawnIndex];
+
+        for (int i = 0; i < spawnPoints.Length; i++)
+        {
+            Instantiate(enemy, sp.position, sp.rotation);
+            i++;
+        }
+        
+        EnemiesAlive++; 
     }
 }

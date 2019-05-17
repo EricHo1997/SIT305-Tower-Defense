@@ -43,6 +43,7 @@ public class LivesUI : MonoBehaviour
                 heart3.SetActive(false);
                 break;
         }
+
         livesText.text = PlayerStats.Lives.ToString() + " LIVES";
     }
 }

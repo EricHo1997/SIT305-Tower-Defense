@@ -1,26 +1,36 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class Enemy : MonoBehaviour
 {
-    public float speed = 10f;
+    public float speed;
 
-    public int health = 100;
+    public float startHealth = 100;
+    private float health;
 
     public int value = 50;
 
     private Transform target;
     private int wavepointIndex = 0;
 
+    [Header("Unity Stuff")]
+    public Image healthBar;
+
+    private bool isDead = false;
+
     void Start()
     {
         target = Waypoints.points[0];
+        health = startHealth;
     }
 
     public void TakeDamage(int amount)
     {
         health -= amount;
 
-        if (health <= 0)
+        healthBar.fillAmount = health / startHealth;
+
+        if (health <= 0 && !isDead)
         {
             Die();
         }
@@ -28,7 +38,12 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
+        isDead = true;
+
         PlayerStats.Money += value; // Increase the money when an enemy die
+
+        WaveSpawner.EnemiesAlive--; 
+
         Destroy(gameObject);
     }
 
@@ -59,9 +74,12 @@ public class Enemy : MonoBehaviour
         target = Waypoints.points[wavepointIndex];
     }
 
+    
+
     void EndPath()
     {
-        PlayerStats.Lives--; 
+        PlayerStats.Lives--;
+        WaveSpawner.EnemiesAlive--;
         Destroy(gameObject);
     }
 }
